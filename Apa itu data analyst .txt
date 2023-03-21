@@ -1,0 +1,24 @@
+Apa itu data analyst ?
+
+semua berawal dari suatu perusahaan yang memiliki banyak data, akan tetapi pada kenyataannya data tersebut tidak berarti apa". karena tidak dimanfaatkan dengan baik.
+
+disinilah peran data analyst dimana mengubah suatu data yang sebelumnya tidak berarti menjadi sesuatu yang bermanfaat. seperti bagaimana kinerja perusahaan, bagaimana pola kebiasaan customer DLL
+
+pengetahuan inilah yang menjadikan penentu para CEO, shio atau manajer untuk menentukan strategi perusahaan kedepannya.
+
+jadi data analyst adalah orang yang memproses dan menganalisa suatu data menjadi insight (wawasan) yang bermanfaat bagi perusahaan.
+
+
+Alur belajar data analyst.
+
+1. Excel
+excel adalah tools awal yang wajib dikuasai oleh data analyst. bahkan di beberapa perusahaan hanya menggunakan excel untuk menganalisa data mereka. mulai dari processing data, mengkalkulasi data dan hingga membuat visualisasi data
+
+   - https://www.youtube.com/playlist?list=PLh4cGGFoAFualkAyD-kb42hkyGYzaj1BB
+
+
+
+2. Bahasa Pemrograman Python dan R
+   - 
+
+3.
