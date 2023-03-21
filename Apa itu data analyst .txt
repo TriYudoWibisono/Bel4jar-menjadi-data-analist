@@ -12,13 +12,71 @@ jadi data analyst adalah orang yang memproses dan menganalisa suatu data menjadi
 Alur belajar data analyst.
 
 1. Excel
-excel adalah tools awal yang wajib dikuasai oleh data analyst. bahkan di beberapa perusahaan hanya menggunakan excel untuk menganalisa data mereka. mulai dari processing data, mengkalkulasi data dan hingga membuat visualisasi data
 
-   - https://www.youtube.com/playlist?list=PLh4cGGFoAFualkAyD-kb42hkyGYzaj1BB
+excel adalah tools awal yang wajib dikuasai oleh data analyst. bahkan di beberapa perusahaan hanya menggunakan excel untuk menganalisa data mereka. mulai dari processing data, mengkalkulasi data dan hingga membuat visualisasi data.
 
+sumber belajar ==>
+
+   - basic  : https://www.youtube.com/playlist?list=PLh4cGGFoAFualkAyD-kb42hkyGYzaj1BB
+   - middle : https://www.youtube.com/playlist?list=PLh4cGGFoAFuYwvrpQcohWBz5u8uGkeFlp
+
+kekurangan excel adalah jumlah data yang digunakan terbatas. sehingga pengelolaan data dalam jumlah besar tidak di rekomendasikan menggunakan excel.
 
 
 2. Bahasa Pemrograman Python dan R
-   - 
 
-3.
+terdapat 2 bahasa pemrograman yang biasa digunakan oleh data analyst yaitu Python & R. disarankan menggunakan Python karena tidak hanya support dengan data analyst, tetapi juga support untuk data scientist seabagai proses mechine learning dan deep learning. Juga support terhadap data engineer untuk memproses data, cleaning data dan juga schedule data. bahkan juga support untuk membuat web. dan juga bisa digunakan untuk SQE dan lain-lain.
+
+dengan menggunakan bahasa pemrograman ini kita bisa menjadi lebih fleksible melakukan proses pengolahan data. baik dari segi skala jadi lebih besar (big data) atau memodifikasinya menjadi seperti apa saja bisa.
+
+sumber belajar ==> 
+    - video (cukup sampai materi 38) : https://www.youtube.com/playlist?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY
+   
+    - Website (sampai materi I0 / Input Output : https://belajarpython.com/tutorial/apa-itu-python/
+
+
+3. Database SQL
+
+SQL merupakan bahasa khusus dalam mengakses dan mengelola data-data. biasanya digunakan untuk mengolah data-data yang berbentuk database relasional.
+
+sumber belajar ==> 
+    - video : https://www.youtube.com/playlist?list=PL2O3HdJI4voGs6CiEUPXwt1fhLLqu30E_
+
+    - Website : https://www.w3schools.com/MySQL/
+
+
+4. Statistik / Statistika
+
+Statistik adalah ilmu yang mempelajari bagaimana cara merencanakan, mengumpulkan, menganalisis, dan juga untuk mengintervensikan data. 
+
+jika dimateri sebelumnya kita belajar menggunakan tools, pada materi ini kita belajar cara mengolah data, menghandle data, bagaimana apabila terjadi data yang kosong, bagaimana jika terjadi data yang tidak stabil/ seimbang dan lain-lain itu bisa dijawab dengan statistik.
+
+Ada beberapa macam statistik yaitu :
+
+a. Statistika Deskriptif 
+- https://www.youtube.com/playlist?list=PL2O3HdJI4voGM2gNYekQcUhjGRXbahMEd
+
+b. Statistika Probabilitas Dasar
+- https://www.youtube.com/playlist?list=PL2O3HdJI4voHDdTtwsGZ60uSPyYHB6KHb
+
+c. Statistika Inferensi
+-  https://www.youtube.com/playlist?list=PL2O3HdJI4voHcIO22VkkBvbxBTYh2AHSP
+
+
+5. Data Visualisasi tools
+
+ada beberapa macam yaitu google data studio, kedua adalah tablue, dan ketiga adalah software microsoft powerbi.
+
+dari ketiga macam diatas kita bisa memilih salah satu untuk di pelajari. pada kesempatan ini kita coba akan belajar tableau.
+
+a. Tableau 
+- https://www.youtube.com/playlist?list=PLF82-I80PwDPYOAawSBdFaZVXpRZdSYqM
+
+
+b. Belajar Power BI 
+- https://www.youtube.com/playlist?list=PLvuXEs4kRMl-i-IZ-ehmr8_ig5F48W5O4
+
+
+Setelah menguasai semua materi diatas, kita bisa belajar mengerjakan studi kasus. seperti yang di jelaskan di video berikut :
+
+- https://www.youtube.com/watch?v=d6xiqfpXAU8&ab_channel=HaloTechAcademy
